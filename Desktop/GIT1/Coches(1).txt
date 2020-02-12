@@ -1,0 +1,11 @@
+V1010PB;ford;Probe 2.0 16V;Blanco;28600;
+V1234LC;audi;100 2.3;Verde;35100;Climatizador
+V2360OX;Opel;Corsa 1.2 Sport;Azul;21000;Antena eléctrica
+V2565NB;renault;Clio 1.7 S;Blanco;21000;
+V3543NC;ford;Escort 1.6 Ghia;Rojo;25000;
+V4578OB;ford;Orion 1.8 Ghia;Negro;26000;Aire Acondicionado
+V7632NX;citroen;Zx Turbo-D;Rojo;28000;Aire Acondicionado, Airbag
+V7642OU;ford;Mondeo 1.8 GLX;Blanco;31000;
+V7648OU;citroen;Xantia 16V;Negro;24800;Airbag
+V8018LJ;ford;Fiesta 1.4 CLX;Azul;19500;Elevalunas eléctricos
+V9834LH;peugeot;205 GTI;Rojo;24500;
